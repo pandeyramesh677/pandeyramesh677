@@ -1,4 +1,4 @@
-### Hi there 👋 Hi👋, I'm Ramesh Kumar Pandey
+###<center> Hi there 👋 Hi👋, I'm Ramesh Kumar Pandey</center>
 - 📊 Passionate Data Analyst from India. 
 - 🔭 Lifelong learner, currently exploring more about Data Analytics.
 - 🌱 Actively learning and upskilling myself.
