@@ -1,6 +1,6 @@
 <h1 align= "center">Hi👋, I'm Ramesh Kumar Pandey</h1>
 <h3 align="center">📊 Passionate Data Analyst from India.</h3>
-- 🔭 Lifelong learner, currently exploring more about Data Analytics.  
+- 🔭 Lifelong learner, currently exploring more about Data Analytics.<br>  
 - 🌱 Actively learning and upskilling myself.  
 - 🧰 My analytics toolbox includes SQL, Python, Power BI, DAX, Power Query, & MS Excel.  
 - 📚 Specialized in data collection, data cleaning, data analysis, and data visualization.  
