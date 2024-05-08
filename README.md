@@ -1,4 +1,4 @@
-Hi👋, I'm Ramesh Kumar Pandey
+<h1 align= "center">Hi👋, I'm Ramesh Kumar Pandey</h1>
 
 <div align="center">
 
