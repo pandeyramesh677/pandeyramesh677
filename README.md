@@ -6,6 +6,6 @@
 - 📚 Specialized in data collection, data cleaning, data analysis, and data visualization.<br>   
 - 💬 Ask me about SQL and Power BI.<br>   
 - 📫 Reach me at Gmail - pandeyramesh677@gmail.com.<br>   
-- 🔗 Connect with me on <a href="https://www.linkedin.com/in/ramesh-pandey-8620a415b/">LinkedIn</a> - <a href="https://www.linkedin.com/in/ramesh-pandey-8620a415b/"<br> 
+- 🔗 Connect with me on <a href="https://www.linkedin.com/in/ramesh-pandey-8620a415b/">LinkedIn</a><a href="https://www.linkedin.com/in/ramesh-pandey-8620a415b/"<br> 
 - ❤️ I love learning new things!
 
