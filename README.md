@@ -1,4 +1,4 @@
-###<center> Hi there 👋 Hi👋, I'm Ramesh Kumar Pandey</center>
+<h1 align="center" class="heading-element" dir="auto">Hi👋, I'm Ramesh Kumar Pandey </h1>
 - 📊 Passionate Data Analyst from India. 
 - 🔭 Lifelong learner, currently exploring more about Data Analytics.
 - 🌱 Actively learning and upskilling myself.
