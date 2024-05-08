@@ -1,4 +1,4 @@
-# Hi there 👋 Hi👋, I'm Ramesh Kumar Pandey
+Hi👋, I'm Ramesh Kumar Pandey
 
 <div align="center">
 
